@@ -23,5 +23,5 @@ Once the program is installed, follow these steps to get started:
 5. Start organizing events by linking clients with theater companies, scheduling performances, and managing event details.
 6. Utilize the program's additional features, such as calendar integration, communication tools, and reporting, to enhance your event management process.
  ## Support and Feedback
-For any inquiries, issues, or feedback regarding the database program, please contact our support team at support@eventpromoterdb.com. We are committed to continuously improving our product and appreciate your input.
+For any inquiries, issues, or feedback regarding the database program, please contact our support team through issues page at Gitub. We are committed to continuously improving our product and appreciate your input.
  Thank you for choosing our database program for event promoters. We hope it streamlines your event management process and contributes to your success!
