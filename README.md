@@ -1,6 +1,6 @@
 # Database Program for Event Promoters
  ## Description
-This is a database program designed specifically for event promoters. It integrates a client list and a theater company list to facilitate the organization and management of events. The program provides an efficient way to keep track of clients, theater companies, and their respective details.
+Teresa Database upgrade. This is a database program designed specifically for event promoters. It integrates a client list and a theater company list to facilitate the organization and management of events. The program provides an efficient way to keep track of clients, theater companies, and their respective details.
  ## Features
 1. **Client List:** Maintain a comprehensive list of clients including their contact information, preferences, and past event history.
 2. **Theater Company List:** Manage a database of theater companies, including their contact details, specialties, and previous collaborations.
